@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Remove Facebook Reels",
+  "version": "2.0",
+  "description": "Hides and blocks Reels on Facebook.",
+  "permissions": ["scripting", "webNavigation"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.facebook.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
