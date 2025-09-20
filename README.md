@@ -1,53 +1,70 @@
-🚫 FB Reels Blocker
+# 🚫 FB Reels Blocker  
 
-Tired of endless Facebook Reels ruining your feed?
-Say goodbye to distractions and reclaim your focus with FB Reels Blocker, the sleekest extension designed to block Reels on Facebook Web instantly.
+**Focus on what matters. Block Facebook Reels instantly and enjoy a distraction-free feed.**  
 
-⚡ Features
+![GitHub release](https://img.shields.io/badge/version-1.0-blue) ![GitHub license](https://img.shields.io/badge/license-MIT-green) ![GitHub stars](https://img.shields.io/badge/stars-%E2%98%85-lightgrey)  
 
-❌ Blocks Facebook Reels: Completely removes Reels from your news feed.
+---
 
-🖥️ Works on Any Chromium-based Browser: Chrome, Brave, or others.
+## ⚡ Features
 
-🔧 Easy to Use: Install and forget—no settings required.
+- ❌ **Blocks Facebook Reels**: No more short-video distractions.  
+- 🖥️ **Works on Any Chromium Browser**: Chrome, Brave, and others.  
+- 🔧 **Simple & Lightweight**: Install once, forget forever.  
+- 🚀 **Boost Productivity**: Focus on meaningful content.  
+- 🌐 **Open Source**: Fully customizable and community-driven.  
 
-🚀 Boost Productivity: Focus on what matters instead of getting lost in short videos.
+---
 
-🌐 Open Source: Customize it your way.
+## 🛠️ Installation
 
-🛠️ Installation
-Any Chromium-based Browser (Chrome, Brave…)
+1. Clone this repository or download the ZIP.  
+2. Open your Chromium-based browser → go to `chrome://extensions/`.  
+3. Enable **Developer Mode** (top-right toggle).  
+4. Click **Load unpacked** → select the folder.  
+5. Refresh Facebook Web and enjoy a clean, distraction-free feed.  
 
-Clone this repo or download the ZIP.
+> Works on Chrome, Brave, and other Chromium-based browsers.  
 
-Open your browser → go to chrome://extensions/.
+---
 
-Enable Developer Mode (top-right toggle).
+## 💡 How It Works
 
-Click Load unpacked → select the folder.
+FB Reels Blocker injects a small content script that detects Reels components in your Facebook feed and removes them instantly.  
+Minimal code, maximum impact.  
 
-Reboot Facebook Web and enjoy a clutter-free feed.
+---
 
-💡 How It Works
+## 🌟 Why Use FB Reels Blocker?
 
-The extension injects a small content script that detects Reels components in Facebook’s feed and removes them in real-time. Minimal code, maximum impact.
+Reels are addictive. This extension ensures your browsing is:  
 
-🌟 Why Use FB Reels Blocker?
+- ✅ **Productive**  
+- ✅ **Distraction-Free**  
+- ✅ **Clean & Simple**  
 
-Reels are addictive. This extension ensures your browsing is productive, distraction-free, and clean. Perfect for students, professionals, or anyone who values focus.
+Perfect for students, professionals, or anyone who values focus.  
 
-🔧 Contributing
+---
 
-Want to make it cooler? Feel free to:
+## 🔧 Contributing
 
-Add support for other distractions.
+Want to make FB Reels Blocker even cooler?  
 
-Optimize performance.
+- Add support for other distractions.  
+- Optimize performance.  
+- Improve code readability.  
 
-Improve code readability.
+Fork the repo → make changes → submit a PR. All contributions are welcome!  
 
-Just fork the repo, make changes, and submit a PR.
+---
 
-📜 License
+## 📜 License
 
-This project is MIT Licensed – feel free to use, modify, and share.
+MIT License – use, modify, and share freely.  
+
+---
+
+## 💬 Feedback
+
+Have ideas, suggestions, or issues? Open an issue or submit a PR. Let’s make Facebook distraction-free together!
