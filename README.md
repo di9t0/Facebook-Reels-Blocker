@@ -2,7 +2,7 @@
 
 **Focus on what matters. Block Facebook Reels instantly and enjoy a distraction-free feed.**  
 
-![GitHub release](https://img.shields.io/badge/version-1.0-blue) ![GitHub license](https://img.shields.io/badge/license-MIT-green) ![GitHub stars](https://img.shields.io/badge/stars-%E2%98%85-lightgrey)  
+![GitHub release](https://img.shields.io/badge/version-1.0-blue) ![GitHub license](https://img.shields.io/badge/license-MIT-green) ![Stars](https://img.shields.io/github/stars/di9t0/Facebook-Reels-Blocker?style=social)  
 
 ---
 
